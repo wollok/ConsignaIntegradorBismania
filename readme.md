@@ -13,11 +13,11 @@ Además, se sabe cual es el costo de vida en el país para una familia tipo.
 
 ### Sindicatos únicos por actividad
 
-La original organización sindical de este país, establece que cada actividad está representada por su sindicato, quien dice cual es el mínimo salario posible para esa actividad. El sindicato también establece el índice de insalubridad propio de la actividad, cuyo mínimo es 1 (valor que se considera normal), y a mayor valor significa mayor insalubridad. A su vez, en el país existe una ley que establece que el máximo de horas por semana que un trabajador puede trabajar en condiciones de salubridad normal es 40, pero nunca se sabe a cuánto lo llevará un proximo gobierno. 
+La original organización sindical de este país, establece que cada actividad está representada por su sindicato, quien dice cual es el mínimo salario posible para esa actividad. El sindicato también establece el índice de insalubridad propio de la actividad, cuyo mínimo es 1 (valor que se considera normal), y a mayor valor significa mayor insalubridad. A su vez, en el país existe una ley que establece que el máximo de horas por mes que un trabajador puede trabajar en condiciones de salubridad normal es 168, pero nunca se sabe a cuánto lo llevará un proximo gobierno. 
 Por ejemplo, el sindicato de los programadores establece que el salario mínimo es de 30 pesos bismanianos y que la insalubridad es 1;.en cambio el sindicato de los deshollinadores de chimeneas afirma que el salario minimo es de 50, pero tiene un indice de insalubridad 2.
 
-**Averiguar si un trabajador está trabajando en exceso**, lo cual ocurre cuando la cantidad de horas que trabaja supera las permitidas por la ley, teniendo en cuenta que las horas permitidas por mes son las de la ley, pero afectadas de manera inversamente proporcional por el índice de insalubridad que indica el sindicato. Por ejemplo, un programador puede trabajar hasta 40 horas la mes, pero un deshollinador solo puede llegar a la mitad, es decir 20 horas mensuales. 
-(se rumorea que el sindicato de presidentes establece la insalubridad en 40, por lo que ninguno de sus afiliados debería trabajar más de una hora) 
+**Averiguar si un trabajador está trabajando en exceso**, lo cual ocurre cuando la cantidad de horas que trabaja supera las permitidas por la ley, teniendo en cuenta que las horas permitidas por mes son las de la ley, pero afectadas de manera inversamente proporcional por el índice de insalubridad que indica el sindicato. Por ejemplo, un programador puede trabajar hasta 168 horas al mes, pero un deshollinador solo puede llegar a la mitad, es decir 84 horas mensuales. 
+(se rumorea que el sindicato de presidentes establece la insalubridad en 168, por lo que ninguno de sus afiliados debería trabajar más de una hora) 
 
 ### Más sindicatos 
 
@@ -26,7 +26,7 @@ Otros sindicatos son en realidad una federación de sindicatos, que se pelean pe
 
 **Hacer un aumento generalizado**, que implica incrementar en un porcentaje dado los salarios de todos los trabajadores explotados, ya sea porque no llegan a fin de mes o porque trabajan en exceso. 
 
-### La hora de reclamar
+### La hora de reclamar [video alusivo](https://www.youtube.com/watch?v=XdXulBfwO0g)
 
 Una protesta, supone una cierta cantidad de personas que participan y una serie de reclamos que se realizan, que pueden ser variados, pero los más típicos son los siguientes: 
 - Aumentar un 50% el salario 
@@ -34,7 +34,7 @@ Una protesta, supone una cierta cantidad de personas que participan y una serie 
 - Reducir la cantidad de horas a trabjar hasta la mitad pero ganando lo mismo que antes en total
 - Que los trabajadores de cierta actividad cambien por otra, supuestamente más conveniente
 
-En el país hay otras"protestas" que también son llevadas adelante por bismanianos y consisten en una serie de reclamos, que pueden ser:
+En el país hay otras "protestas" que también son llevadas adelante por bismanianos y consisten en una serie de reclamos, que pueden ser:
 - Disminuir el salario en un 13%
 - Aumentar la cantidad de horas trabajadas, sin que impleque modificar el sueldo total. 
 - Que los trabajadores de cierta actividad cambien por otra, tal vez menos conveniente
