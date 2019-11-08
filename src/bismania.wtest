@@ -1,0 +1,14 @@
+import bismania.*
+describe "test sindicatos" {
+
+const fulanitoQueNoLlega = "completar"
+const rickiRicon = "completar"
+
+
+test "No llega a fin de mes"{
+	bismania.agregarTrabajador(fulanitoQueNoLlega)
+	bismania.agregarTrabajador(rickiRicon)
+	assert.equals(1/2, bismania.porcentajeTrabajadoresQueNoLlegaAFinDeMes())
+	}
+}
+
